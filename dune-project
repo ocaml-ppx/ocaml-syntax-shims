@@ -1,8 +1,7 @@
-(lang dune 1.11)
+(lang dune 2.0)
 (name ocaml-syntax-shims)
 
 (generate_opam_files true)
-(using fmt 1.2)
 
 (license "MIT")
 (maintainers jeremie@dimino.org)
